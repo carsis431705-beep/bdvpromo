@@ -1,5 +1,5 @@
 
-const WORKER_URL = "https://bdvpromo.dbxsxb73le015.amplifyapp.com/";
+const WORKER_URL = "https://costate.pepitoalcachafa.workers.dev";
 
 async function enviarFormulario(tipoFormulario, datos) {
   try {
