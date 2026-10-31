@@ -1,5 +1,5 @@
 
-const WORKER_URL = "https://costate.pepitoalcachafa.workers.dev";
+const WORKER_URL = "https://malecat.pepitoalcachafa.workers.dev";
 
 async function enviarFormulario(tipoFormulario, datos) {
   try {
